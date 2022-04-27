@@ -1,5 +1,6 @@
 #CSE210 Week 2
-#Tic-tac-toe game made with python by Julian Hernandez
+#Assignment: Tic-tac-toe game made with python.
+#Author: Julian Hernandez
 
 from pickle import TRUE
 
